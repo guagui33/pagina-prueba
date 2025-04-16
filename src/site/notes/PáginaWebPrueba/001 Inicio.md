@@ -12,7 +12,7 @@
 **- Curso inhabilitado**
 
 
-### Power BI - Motomart
+### Power BI - Motomartty
 - [[PáginaWebPrueba/0012 Presentaciones\|Presentaciones por tema]]
 - 
 
