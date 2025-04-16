@@ -3,9 +3,13 @@
 ---
 
 
+
 [[PáginaWebPrueba/0011 Nosotros\|Nuestro equipo]]
 
-##Cursos
+## Cursos
+### Excel
+** - Curso inhabilitado **
 ### Power BI
+
 [[PáginaWebPrueba/0012 Presentaciones\|0012 Presentaciones]]
 
