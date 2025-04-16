@@ -8,10 +8,11 @@
 
 ## Cursos
 
-	### Excel
-		**- Curso inhabilitado**
+### Excel
+**- Curso inhabilitado**
 
 
-	### Power BI
-		[[PáginaWebPrueba/0012 Presentaciones\|0012 Presentaciones]]
+### Power BI
+- [[PáginaWebPrueba/0012 Presentaciones\|Presentaciones por tema]]
+- 
 
