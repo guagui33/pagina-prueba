@@ -3,7 +3,6 @@
 ---
 
 Hola, mira
-sdfasdfdsf asdf asdf asdf s
 
-[[DAX\|DAX]]
+[[PáginaWebPrueba/Inicioo 2\|Inicioo 2]]
 
