@@ -3,6 +3,9 @@
 ---
 
 
-[[PáginaWebPrueba/0011 Nosotros\|0011 Nosotros]]
+[[PáginaWebPrueba/0011 Nosotros\|Nuestro equipo]]
+
+##Cursos
+### Power BI
 [[PáginaWebPrueba/0012 Presentaciones\|0012 Presentaciones]]
 
